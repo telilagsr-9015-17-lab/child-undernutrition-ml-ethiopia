@@ -28,8 +28,8 @@ This repository contains the full implementation of a research study on predicti
 ## 👨‍💻 Author
 Telila Kejela(Msc in Data Science student at AAU)
 ## Supervisors
-Dr Getachew Hailemariam(AAU)
-Prof Abera Kumie(AAU)
+- Dr Getachew Hailemariam(AAU)
+- Prof Abera Kumie(AAU)
 
 ## 📌 Note
 This project is part of a postgraduate research thesis in AAU, Ethiopia.
